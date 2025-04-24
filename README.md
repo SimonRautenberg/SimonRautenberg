@@ -1,18 +1,12 @@
-## Hi there 👋
+# Hi, I'm Simon Rautenberg.
 
-#hello world!
-i'm currious to see the result!
-<!--
-**SimonRautenberg/SimonRautenberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a professional software developer currently looking for new opportunities.  
+I enjoy developing complex, feature-rich websites that solve real-world problems.
 
-Here are some ideas to get you started:
+I began my career in software development with building automation, which gave me hands-on experience with cyber-physical systems.  
+Currently, I'm exploring neural networks and machine learning just for fun.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️👨🏻‍💻 Technologies & Tools I Use
+- **Languages**: PHP, JavaScript, HTML, CSS – with some experience in C#, C++, and Python
+- **Frameworks**: Symfony, jQuery, .NET
+- **Tools**: Git, Linux, Windows, VS Code, PHPStorm, Jupyter Notebook
