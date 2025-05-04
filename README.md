@@ -10,3 +10,6 @@ Currently, I'm exploring neural networks and machine learning just for fun.
 - **Languages**: PHP, JavaScript, HTML, CSS – with some experience in C#, C++, and Python
 - **Frameworks**: Symfony, jQuery, .NET
 - **Tools**: Git, Linux, Windows, VS Code, PHPStorm, Jupyter Notebook
+
+## Note for prospective employers:
+Some of my most exciting projects are private due to confidentiality or licensing reasons. If you're interested, I'm happy to give you a personal tour and walk you through selected examples of my work. Just reach out!
