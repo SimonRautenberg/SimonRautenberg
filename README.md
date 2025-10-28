@@ -1,5 +1,7 @@
 # Hi, I'm Simon Rautenberg.
-
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+Profile!👋;" />
+</p>
 I'm a professional software developer currently looking for new opportunities.  
 I enjoy developing complex, feature-rich websites that solve real-world problems.
 
@@ -11,5 +13,16 @@ Currently, I'm exploring neural networks and machine learning just for fun.
 - **Frameworks**: Symfony, jQuery, .NET
 - **Tools**: Git, Linux, Windows, VS Code, PHPStorm, Jupyter Notebook
 
+<div align="left" padding="15px">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimonRautenberg&layout=pie&theme=tokyonight" alt="Top Languages" width="200px" style="padding: 15px"/>
+</div>
+
+
+
 ## Note for prospective employers:
 Some of my most exciting projects are private due to confidentiality or licensing reasons. If you're interested, I'm happy to give you a personal tour and walk you through selected examples of my work. Just reach out!
+<div align="center">
+<a href="https://de.linkedin.com/in/simon-rautenberg-224b9937b?trk=people-guest_people_search-card">
+<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white">
+</a>
+</div>
