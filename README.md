@@ -1,6 +1,6 @@
 # Hi, I'm Simon Rautenberg.
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+Profile!👋;" />
+  <img src="images/welcome.gif" />
 </p>
 I'm a professional software developer currently looking for new opportunities.  
 I enjoy developing complex, feature-rich websites that solve real-world problems.
