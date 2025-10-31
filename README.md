@@ -13,7 +13,7 @@ Currently, I'm exploring neural networks and machine learning just for fun.
 - **Frameworks**: Symfony, jQuery, .NET
 - **Tools**: Git, Linux, Windows, VS Code, PHPStorm, Jupyter Notebook
 
-<div align="left" padding="15px">
+<div align="right" padding="15px">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimonRautenberg&layout=pie&theme=tokyonight" alt="Top Languages" width="200px" style="padding: 15px"/>
 </div>
 
