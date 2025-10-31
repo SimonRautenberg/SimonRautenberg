@@ -1,6 +1,6 @@
-# Hi, I'm Simon Rautenberg.
+# Hi, I'm Simon Rautenberg. Welcome to my GitHub profile. 👋
 <p align="left">
-  <img src="images/welcome.gif" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Full%20Stack%20Developer&section=header&reversal=false"/>
 </p>
 I'm a professional software developer currently looking for new opportunities.  
 I enjoy developing complex, feature-rich websites that solve real-world problems.
@@ -26,3 +26,7 @@ Some of my most exciting projects are private due to confidentiality or licensin
 <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white">
 </a>
 </div>
+
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=footer&reversal=false"/>
+</p>
