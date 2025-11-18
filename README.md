@@ -10,7 +10,7 @@ Currently, I'm exploring neural networks and machine learning just for fun.
 
 ## 🛠️👨🏻‍💻 Technologies & Tools I Use
 - **Languages**: PHP, JavaScript, HTML, CSS – with some experience in C#, C++, and Python
-- **Frameworks**: Symfony, jQuery, .NET
+- **Frameworks**: Symfony, Vue, jQuery, .NET
 - **Tools**: Git, Linux, Windows, VS Code, PHPStorm, Jupyter Notebook
 
 <div align="right" padding="15px">
