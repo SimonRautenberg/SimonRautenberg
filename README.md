@@ -26,6 +26,11 @@ Some of my most exciting projects are private due to confidentiality or licensin
 <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white">
 </a>
 </div>
+<div align="center">
+<a href="https://simonrautenberg.github.io/portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-brightgreen?style=for-the-badge" style="border-radius: 4px">
+</a>
+</div>
 
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=footer&reversal=false"/>
